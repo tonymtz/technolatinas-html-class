@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body {
+    background-color: #eee;
+    color: #666;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 4em;
+}
+
+a {
+    color: #4747b6;
+}
+
+input {
+    margin: .4rem;
+}
+
+form {
+    margin-bottom: 2em;
+}
+
+.page {
+    margin: 0 auto;
+    width: 720px;
+}
+
+.section {
+    margin: 2em 0;
+}
+
+.question-card {
+    margin: 2em 0;
+}
+
+.question-card .title {
+    background-color: #666;
+    color: #fff;
+    padding: 0.2em 1em;
+}
+
+.button {
+    padding: 0.5em 2em;
+}
